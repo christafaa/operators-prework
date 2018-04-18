@@ -1,3 +1,3 @@
-def unsafe
-
+def unsafe?(speed)
+  return 
 end
